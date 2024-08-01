@@ -1,5 +1,5 @@
 Hi there 👋
-# I'm Luis Chrestia, from Argentina, I'm a Frontend Developer
+# I'm Luis Chrestia, from Argentina 🇦🇷
 
 ### Technologies & Skills
 #### Frontend:
@@ -8,8 +8,10 @@ Hi there 👋
 - Intermediate
   TypeScript, Java, Astro, React Native
 #### Backend:
-- Advanced: Node.js, Express, MongoDB
-- Basic: MySQL
+- Advanced:
+  Node.js, Express, MongoDB
+- Basic:
+  MySQL
 #### Languages
 - Spanish: Native
 - English: Intermediate+
