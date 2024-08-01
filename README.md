@@ -1,5 +1,7 @@
 Hi there 👋
-# I'm Luis Chrestia, from Argentina 🇦🇷
+# I'm Luis Chrestia, from Argentina ![image](https://github.com/user-attachments/assets/ab9e12fb-db7d-4884-b8dd-f98fd30f308e)
+
+
 
 ### Technologies & Skills
 #### Frontend:
