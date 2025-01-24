@@ -8,12 +8,12 @@ Hi there 👋
 - Advanced
   HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
 - Intermediate
-  TypeScript, Java, Astro, React Native
+  MySQL, TypeScript, Java, Astro, React Native
 #### Backend:
 - Advanced:
   Node.js, Express, MongoDB
 - Basic:
-  MySQL
+  Python, PHP
 #### Languages
 - Spanish: Native
 - English: Intermediate+
