@@ -2,23 +2,25 @@ Hi there 👋
 # I'm Luis Chrestia, from Argentina ![image](https://github.com/user-attachments/assets/ab9e12fb-db7d-4884-b8dd-f98fd30f308e)
 
 
-
 ### Technologies & Skills
 #### Frontend:
 - Advanced
-  HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+  HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
 - Intermediate
-  MySQL, TypeScript, Java, Astro, React Native
+  , React Native
 #### Backend:
 - Advanced:
   Node.js, Express, MongoDB
+- Intermediate
+  MySQL, SQLite
 - Basic:
-  Python, PHP
+  Python, PHP, Java
 #### Languages
 - Spanish: Native
 - English: Intermediate+
 #### Other skills
-- Skilled in global state management using Redux, Zustand, and TanStack Query.
+- Work with component library like shadcn/ui, HeroUI and MaterialUI.
+- Skilled in global state management using Redux, Zustand and TanStack Query.
 - Experienced in developing with JavaScript/TypeScript, Next.js, React, Node.js, and Express.
 - Proficient in agile methodologies with tools like Trello, Azure, and Jira.
 - Expertise in creating responsive, user-friendly web applications.
