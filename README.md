@@ -10,11 +10,14 @@ Hi there 👋
   , React Native
 #### Backend:
 - Advanced:
-  Node.js, Express, MongoDB
-- Intermediate
-  MySQL, SQLite
+  Node.js, Express
 - Basic:
   Python, PHP, Java
+#### Database:
+- SQL
+  MySQL, PostgreSQL, SQLite
+- NoSQL
+  MongoDB, Cassandra
 #### Languages
 - Spanish: Native
 - English: Intermediate+
