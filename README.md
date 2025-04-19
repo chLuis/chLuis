@@ -49,7 +49,8 @@ Fullstack Web Developer from Argentina, passionate about building intuitive, eff
 
 ---
 
-![Luis Chrestia GitHub Stats](https://github-readme-stats.vercel.app/api?username=chluis&show_icons=true&theme=radical)
+![Luis Chrestia GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisChrestia&show_icons=true&theme=radical&cache_seconds=1800)
+
 
 
 
