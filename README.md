@@ -1,34 +1,56 @@
-Hi there 👋
-# I'm Luis Chrestia, from Argentina ![image](https://github.com/user-attachments/assets/ab9e12fb-db7d-4884-b8dd-f98fd30f308e)
+# 👋 Hi there!
 
+## I'm Luis Chrestia 🇦🇷 ![image](https://github.com/user-attachments/assets/ab9e12fb-db7d-4884-b8dd-f98fd30f308e)
 
-### Technologies & Skills
-#### Frontend:
-- Advanced
-  HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
-- Intermediate
-  , React Native
-#### Backend:
-- Advanced:
-  Node.js, Express
-- Basic:
-  Python, PHP, Java
-#### Database:
-- SQL
-  MySQL, PostgreSQL, SQLite
-- NoSQL
-  MongoDB, Cassandra
-#### Languages
-- Spanish: Native
-- English: Intermediate+
-#### Other skills
-- Work with component library like shadcn/ui, HeroUI and MaterialUI.
-- Skilled in global state management using Redux, Zustand and TanStack Query.
-- Experienced in developing with JavaScript/TypeScript, Next.js, React, Node.js, and Express.
-- Proficient in agile methodologies with tools like Trello, Azure, and Jira.
-- Expertise in creating responsive, user-friendly web applications.
-- Competent in designing and implementing intuitive user interfaces.
-- Developed and integrated RESTful APIs, including handling JSON files to enhance web application functionality.
+Fullstack Web Developer from Argentina, passionate about building intuitive, efficient, and scalable applications. I'm currently studying **Técnico Universitario en Programación** at the **Universidad Tecnológica Nacional (UTN-FRT)** and working on personal and freelance projects that solve real-world problems.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### 💻 Frontend
+- **Advanced**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Intermediate**: React Native
+
+#### 🔧 Backend
+- **Advanced**: Node.js, Express.js
+- **Basic**: NestJs, Python, PHP, Java
+
+#### 🗄️ Databases
+- **SQL**: MySQL, PostgreSQL, SQLite
+- **NoSQL**: MongoDB, Cassandra
+
+#### 📦 Tools & Libraries
+- Zustand, Redux, TanStack Query  
+- shadcn/ui, Heroicons, Material UI  
+- Git, GitHub, Vercel, Docker (basic)
+
+#### 🧠 Methodologies & Work Style
+- Agile (Scrum, Kanban)  
+- Project management with Trello, Jira, Azure Boards  
+- Strong team collaboration and autonomous problem solving
+
+#### 🌐 Languages
+- Spanish: Native  
+- English: Intermediate
+
+---
+
+### 📌 About Me
+- 💼 I’ve developed systems for client management, car rental services, appointment scheduling, academic administration, and eCommerce platforms.
+- 🧠 Always learning — I enjoy diving into new tech and turning complex ideas into great UIs and robust APIs.
+
+---
+
+### 📫 Let's connect!
+- 🔗 Portfolio: [chluis-portfolio.netlify.app](https://chluis-portfolio.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/luis-chrestia](https://www.linkedin.com/in/luis-chrestia/)
+- 📧 Email: [chluisdev@gmail.com](mailto:chluisdev@gmail.com)
+
+---
+
+![Luis Chrestia GitHub Stats](https://github-readme-stats.vercel.app/api?username=chluis&show_icons=true&theme=radical)
+
 
 
 
